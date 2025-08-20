@@ -6,6 +6,7 @@ This project implements a hybrid data pipeline combining both real-time streamin
 
 ---
 
+
 ## Architecture and Data Flow
 
 ### Batch Stream
